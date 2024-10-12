@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "04fa8e4bbf541b89",
+        "id": "36eae86476f5338c",
         "type": "tabs",
         "children": [
           {
-            "id": "19add070eb9ae4ac",
+            "id": "ec793809b8cb2273",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/appearance.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "844410cf06cae872",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-minimal-settings/data.json",
-                "staged": false
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -142,9 +136,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "4cea347ccaf21907",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -161,7 +163,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19add070eb9ae4ac",
+  "active": "ec793809b8cb2273",
   "lastOpenFiles": [
     "README.md",
     "Example.md"
