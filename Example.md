@@ -6,3 +6,4 @@ Create another sentence.
 
 Test commit message.
 
+Test commit message.
