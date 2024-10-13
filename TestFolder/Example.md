@@ -9,3 +9,7 @@ Test commit message.
 Test commit message.
 
 I have created a folder.
+
+> [!tip]
+> I create a tip callout.
+
